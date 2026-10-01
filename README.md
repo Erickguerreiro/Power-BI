@@ -19,6 +19,8 @@ Também foi definido que a explicação deveria utilizar uma linguagem clara e o
 
 # Link do Notebook e Fontes Utilizadas
 
+Os links utilizados foram selecionados por apresentarem conteúdos relevantes e confiáveis para o aprendizado do Power BI, priorizando principalmente a documentação oficial da Microsoft, que é a principal referência por ser desenvolvida e mantida pela própria empresa responsável pela ferramenta. As demais fontes, como sites especializados em treinamentos e canais do YouTube, foram utilizadas como materiais complementares, oferecendo explicações mais didáticas, exemplos práticos e demonstrações do uso do Power BI. Dessa forma, as fontes combinam informações oficiais com conteúdos educacionais de apoio, contribuindo para uma aprendizagem mais completa e adequada, especialmente para pessoas que estão iniciando na ferramenta.
+
 Link NotebookLM:
 
 https://notebook.google.com/notebook/03103f3d-7ae4-4036-822c-928529a9f37a/preview
