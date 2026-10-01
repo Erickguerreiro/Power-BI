@@ -20,9 +20,11 @@ Também foi definido que a explicação deveria utilizar uma linguagem clara e o
 # Link do Notebook e Fontes Utilizadas
 
 Link NotebookLM:
+
 https://notebook.google.com/notebook/03103f3d-7ae4-4036-822c-928529a9f37a/preview
 
 Links Utilizados:
+
 1 - https://learn.microsoft.com/pt-br/power-bi/transform-model/desktop-quickstart-learn-dax-basics
 
 2 - https://learn.microsoft.com/pt-br/power-bi/fundamentals/desktop-getting-started
